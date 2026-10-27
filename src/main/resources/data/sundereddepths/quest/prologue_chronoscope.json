@@ -1,0 +1,11 @@
+{
+  "title_key": "quest.sundereddepths.prologue_chronoscope.title",
+  "description_key": "quest.sundereddepths.prologue_chronoscope.desc",
+  "objectives": [
+    "explore:surface_ruined_village",
+    "dialogue:elder_ghost_intro",
+    "collect:chronoscope"
+  ],
+  "prerequisite_quests": [],
+  "hidden": false
+}

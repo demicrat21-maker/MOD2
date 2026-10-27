@@ -1,0 +1,21 @@
+{
+  "itemGroup.sundereddepths": "Sundered Depths",
+
+  "block.sundereddepths.root_ash_stone": "Root-Ash Stone",
+
+  "item.sundereddepths.root_ash_stone": "Root-Ash Stone",
+  "item.sundereddepths.chronoscope": "Chronoscope",
+  "item.sundereddepths.chronoscope.channel_complete": "The Echo shifts...",
+  "item.sundereddepths.crown_of_roots": "Crown of Roots",
+  "item.sundereddepths.regalia.root_vitality.desc": "The First King's crown. Grants vitality and resistance to Abyssal Pressure on Layers 1-2.",
+  "item.sundereddepths.regalia.slot_reminder": "Equip in a Regalia slot (max 3 worn at once)",
+
+  "entity.sundereddepths.king_of_roots": "King of Roots",
+  "entity.sundereddepths.root_wraith": "Root Wraith",
+  "item.sundereddepths.root_wraith_spawn_egg": "Root Wraith Spawn Egg",
+
+  "effect.sundereddepths.abyssal_pressure": "Abyssal Pressure",
+
+  "quest.sundereddepths.prologue_chronoscope.title": "The First Descent",
+  "quest.sundereddepths.prologue_chronoscope.desc": "Find what remains of the ruined village above the Abyss, and learn from the Elder Ghost why the world fell."
+}

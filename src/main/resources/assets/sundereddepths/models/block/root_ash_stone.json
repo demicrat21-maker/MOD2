@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sundereddepths:block/root_ash_stone"
+  }
+}
